@@ -39,7 +39,7 @@ const chapters = {
         caption: '<img class="photo" loading="lazy" src="app/image/01_Ichikawa.jpg" width="100%"><p class="tipstyle01">1985</p><p class="tipstyle02">Ichikawa-city, Chiba-prefecture, Japan<br><span class="style01">Tap this popup and fly to the next chapter!</span></p>',
         popup_flag: 'top',
     },
-    '2010-2012 Kandy, Sri Lanka': {
+    '2010-2013 Kandy, Sri Lanka': {
         center: [80.63856,7.29355-1.5],
         zoom: 6,
         bearing: 0,
@@ -66,7 +66,7 @@ const chapters = {
         pitch: 0,
         speed: 0.5,
         coordinates: [30.46044, 50.42192],
-        caption: '<img class="photo" loading="lazy" src="app/image/09_Kiyv.jpg" width="100%"><p class="tipstyle01">2015</p><p class="tipstyle02">Kiyv, Ukraine.</p>',
+        caption: '<img class="photo" loading="lazy" src="app/image/09_Kyiv.jpg" width="100%"><p class="tipstyle01">2015</p><p class="tipstyle02">Kyiv, Ukraine.</p>',
         popup_flag: 'top',
     },
     '2016 Kigali, Rwanda': {
